@@ -1,0 +1,44 @@
+  .glorbla
+  { width: 100%;
+    margin: 0px;
+    background: blue;
+    box-shadow: 15px 15px 15px deepskyblue
+    ;border-radius: 20px;
+    font-size: 40px;
+  }
+  .schmorbla
+  {
+    background: lightseagreen ; 
+    border-radius: 20px; 
+    color: black;
+    margin-top: 40px;
+    
+    box-shadow:20px 20px 20px blue;
+  }
+  .mo
+  {
+    font-size: 18px ;
+  }
+  .rug
+  {
+    background: blue;
+    box-shadow:5px 5px 5px lightseagreen;
+    font-size: 17px;
+    white-space: pre-line;
+  }
+ 
+  body{
+    background-image: linear-gradient( darkorchid, deeppink, black);
+     font-family: fantasy
+  }
+
+  canvas{
+    border-style: ridge;
+    border-color: lightgreen;
+    border-width: 10px;
+  }
+
+.copy_right_footer{
+  background-image: linear-gradient(to right, deepskyblue, black);
+  bottom: 0; width: 100%; position:fixed;
+}
